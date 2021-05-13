@@ -8,7 +8,7 @@ The iris dataset consists of four features:
 * Petal Length
 * Petal Width
 
-The has three species:
+The flower has three species:
 * Setosa
 * Versicolor
 * Virginica
